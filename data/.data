@@ -1,0 +1,204 @@
+###########Sun Dec 18 16:36:09 CST 2022###########
+cpu[
+    used_rate: 10.00%
+]cpu
+memory[
+    total: 32509M
+    used: 11120M
+    free: 21219M
+    share: 17M
+    buffcache: 223M
+    available: 21262M
+    used_rate: 34.21%
+]memory
+disk[
+    -
+        file_system: rootfs
+        blocks: 204801M
+        used: 86916M
+        available: 117886M
+        used_rate: 43%
+        mounted: /
+    -
+        file_system: none
+        blocks: 204801M
+        used: 86916M
+        available: 117886M
+        used_rate: 43%
+        mounted: /dev
+    -
+        file_system: none
+        blocks: 204801M
+        used: 86916M
+        available: 117886M
+        used_rate: 43%
+        mounted: /run
+    -
+        file_system: none
+        blocks: 204801M
+        used: 86916M
+        available: 117886M
+        used_rate: 43%
+        mounted: /run/lock
+    -
+        file_system: none
+        blocks: 204801M
+        used: 86916M
+        available: 117886M
+        used_rate: 43%
+        mounted: /run/shm
+    -
+        file_system: none
+        blocks: 204801M
+        used: 86916M
+        available: 117886M
+        used_rate: 43%
+        mounted: /run/user
+    -
+        file_system: tmpfs
+        blocks: 204801M
+        used: 86916M
+        available: 117886M
+        used_rate: 43%
+        mounted: /sys/fs/cgroup
+    -
+        file_system: C:\
+        blocks: 204801M
+        used: 86916M
+        available: 117886M
+        used_rate: 43%
+        mounted: /mnt/c
+    -
+        file_system: D:\
+        blocks: 204801M
+        used: 16089M
+        available: 188713M
+        used_rate: 8%
+        mounted: /mnt/d
+    -
+        file_system: E:\
+        blocks: 204801M
+        used: 25353M
+        available: 179449M
+        used_rate: 13%
+        mounted: /mnt/e
+    -
+        file_system: F:\
+        blocks: 256001M
+        used: 158059M
+        available: 97943M
+        used_rate: 62%
+        mounted: /mnt/f
+    -
+        file_system: G:\
+        blocks: 83037M
+        used: 59036M
+        available: 24001M
+        used_rate: 72%
+        mounted: /mnt/g
+
+]disk
+###########Sun Dec 18 16:36:09 CST 2022###########
+
+###########Sun Dec 18 16:36:40 CST 2022###########
+cpu[
+    used_rate: 6.00%
+]cpu
+memory[
+    total: 32509M
+    used: 10937M
+    free: 21314M
+    share: 17M
+    buffcache: 223M
+    available: 21441M
+    used_rate: 33.64%
+]memory
+disk[
+    -
+        file_system: rootfs
+        blocks: 204801M
+        used: 86916M
+        available: 117886M
+        used_rate: 43%
+        mounted: /
+    -
+        file_system: none
+        blocks: 204801M
+        used: 86916M
+        available: 117886M
+        used_rate: 43%
+        mounted: /dev
+    -
+        file_system: none
+        blocks: 204801M
+        used: 86916M
+        available: 117886M
+        used_rate: 43%
+        mounted: /run
+    -
+        file_system: none
+        blocks: 204801M
+        used: 86916M
+        available: 117886M
+        used_rate: 43%
+        mounted: /run/lock
+    -
+        file_system: none
+        blocks: 204801M
+        used: 86916M
+        available: 117886M
+        used_rate: 43%
+        mounted: /run/shm
+    -
+        file_system: none
+        blocks: 204801M
+        used: 86916M
+        available: 117886M
+        used_rate: 43%
+        mounted: /run/user
+    -
+        file_system: tmpfs
+        blocks: 204801M
+        used: 86916M
+        available: 117886M
+        used_rate: 43%
+        mounted: /sys/fs/cgroup
+    -
+        file_system: C:\
+        blocks: 204801M
+        used: 86916M
+        available: 117886M
+        used_rate: 43%
+        mounted: /mnt/c
+    -
+        file_system: D:\
+        blocks: 204801M
+        used: 16089M
+        available: 188713M
+        used_rate: 8%
+        mounted: /mnt/d
+    -
+        file_system: E:\
+        blocks: 204801M
+        used: 25353M
+        available: 179449M
+        used_rate: 13%
+        mounted: /mnt/e
+    -
+        file_system: F:\
+        blocks: 256001M
+        used: 158059M
+        available: 97943M
+        used_rate: 62%
+        mounted: /mnt/f
+    -
+        file_system: G:\
+        blocks: 83037M
+        used: 59036M
+        available: 24001M
+        used_rate: 72%
+        mounted: /mnt/g
+
+]disk
+###########Sun Dec 18 16:36:40 CST 2022###########
+
